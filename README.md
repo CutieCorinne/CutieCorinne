@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="639" height="69" alt="image" src="https://github.com/user-attachments/assets/6e21136e-87b5-4966-a762-adf0aefe906b" />
 
 <!--
 **CutieCorinne/CutieCorinne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
